@@ -31,7 +31,7 @@ lunch-parent
 - The payment status of all students in this group are recorded
 
 ## Main succes scenario
-1. lunch-parent opens the attendance sheet page
+1. lunch-parent opens the attendance sheet page for this group
 2. lunch-parent chooses an attending student that is not yet chosen
 3. lunch-parent marks student as present 
 4. lunch-parent marks the payment of the student if the student payed
