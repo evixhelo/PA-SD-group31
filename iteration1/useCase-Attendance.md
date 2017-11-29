@@ -32,12 +32,14 @@ lunch-parent
 
 ## Main succes scenario
 1. lunch-parent opens the attendance sheet page for this group
-2. lunch-parent chooses an attending student that is not yet chosen
+2. lunch-parent selects an attending student that has not yet been selected
 3. lunch-parent marks student as present 
-4. lunch-parent marks the payment of the student if the student payed
-5. lunch-parent repeats step 2-4 until every student is chosen
-6. lunch-parent submits the attendance sheet
-7. the system informs the lunch-parent of the result
+4. lunch-parent marks the payment of the student if the student has paid
+
+lunch-parent repeats step 2-4 until every student is selected
+
+5. lunch-parent submits the attendance sheet
+6. the system informs the lunch-parent of the result of the action
 
 ## Extensions
 none
