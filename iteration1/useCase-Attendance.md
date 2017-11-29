@@ -39,7 +39,8 @@ lunch-parent
 lunch-parent repeats step 2-4 until every student is selected
 
 5. lunch-parent submits the attendance sheet
-6. the system informs the lunch-parent of the result of the action
+6. the system processes the attendance sheet
+7. the system informs the lunch-parent of the result of the action
 
 ## Extensions
 none
